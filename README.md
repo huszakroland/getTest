@@ -1,2 +1,0 @@
-# getTest
-SFJ test
